@@ -1,6 +1,6 @@
 # :wave:Olá Mundo
 
-## Olá, bem-vindo(a) ao meu perfil! Sou a pizza, programo bots para o discord!
+## Olá, bem-vindo(a) ao meu perfil! Sou a pizza, programo bots para o discord!<a href="https://emoji.gg/emoji/8511_Pizza_cool"><img src="https://emoji.gg/assets/emoji/8511_Pizza_cool.png" width="64px" height="64px" alt="Pizza_cool"></a>
 ![PC](https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif)
  
 :computer:Linguagens de programação:
