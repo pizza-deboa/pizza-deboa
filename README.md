@@ -7,7 +7,7 @@
 =================
 
 - [x] NodeJs/JavaScript
-- [x] DBD/Bot Designer for discord
+- [ ] Html (Estudando)
 - [ ] Python(Estudando)
 
 ![Dev](https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif)
