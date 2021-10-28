@@ -26,4 +26,3 @@ Você pode me encontrar no(a):
 
 ![Badge](https://img.shields.io/badge/servidor%3A-discord-blue)
 ![Badge](https://img.shields.io/badge/canal%3A-twittch-blueviolet)
-![Badge](https://img.shields.io/badge/bot%3A-pizzabot-yellow)
